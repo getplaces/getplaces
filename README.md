@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating a startup
 - 🌱 I’m currently learning reactJS
 - 💞️ I’m looking to collaborate on how to create a startup
-- 📫 How to reach me omgnotthisone@gmail.com
+- 📫 How to reach me omgnotthis1@gmail.com
 
 <!---
 getplaces/getplaces is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
